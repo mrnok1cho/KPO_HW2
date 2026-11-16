@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+data/
+results.csv
